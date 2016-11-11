@@ -1,0 +1,8 @@
+# mátt henda þessu skjali þegar þú hefur lesið þetta Simmi.
+#
+# core er rótin á verkefninu. Inn í Core möppuna kemur verkefnið sjálft og ekkert annað.
+# Dagbók, documentations og readme.md kemur fyrir utan verkefna rótina. Getur horft á þetta sem 
+# 'Program Files' möppu. Við myndum þá setja verkefnið sjálft í 'Program Files' eða 'core'.
+# athuga þarf að core mappan á ekki að innihalda neinn file nema það sé readmefile. Hingað kemur
+# mappa sem heitir nafninu á öðrum servernum, og önnur mappa sem hefur nafnið á hinum servernum.
+# Ég get útskýrt þetta betur fyrir þér í töluðu máli, ef þú þess óskar.
