@@ -38,4 +38,10 @@
 # verkefnalýsing
 # Tekið verður gamla GRU hópverkefnið sem ég Tómas, Vilhelm og Jói gerðum í sameiningu, og gert upp. Mikið er hægt að gera fyrir þá síðu
 # Allt SQL fært yfir í stored proceadure.
-# Laga síðuna svo hún tali við rót
+# Laga síðuna svo hún tali við rót. Reina að hafa það dynamic.
+# Henda inn nýum gögnum inná gagnagrunninn, þar sem gleymdist að backa upp data í forðum daga.
+# Data gögnin skulu svo vera í sér skrám, til framtíðar nota.
+# Ef tími gefst til væri sniðugt að gera eftirfarandi
+# lykilorð encryptuð
+# Zurb Foundation Upgrade í hið nýasta.
+
